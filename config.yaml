@@ -1,0 +1,10 @@
+domain: go.mrchanchal.com
+index: index.html
+github-user: chanchal1987
+target: target
+packages:
+  - name: go-llps
+  - name: slicesort
+  - name: treewriter
+  - name: deptree
+  - name: zaphandler

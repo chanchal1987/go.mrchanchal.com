@@ -1,0 +1,5 @@
+<html><body>
+    <ul>
+        {{range $_, $r := . -}}<li><a href="/{{$r.Name}}">{{$r.Name}}</a></li>{{end -}}
+    </ul>
+</body></html>
